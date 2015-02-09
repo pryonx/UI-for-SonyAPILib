@@ -8,7 +8,9 @@ the button as the string command, and that will do it.
 
 ----------------------------------------------------------------------
 SonyAPILib.dll v5.0 written by: Kirk Herron
+
 ManagedUPnP developed by Aaron Lee Murgatrod.
+
 Newtonsoft.JSON developed by James Newton-King
 
 
