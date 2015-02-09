@@ -1,0 +1,33 @@
+d:\users\pryonx_2\documents\visual studio 2012\Projects\Bravia_Controller\Bravia_Controller\bin\Debug\Bravia_Controller.exe.config
+d:\users\pryonx_2\documents\visual studio 2012\Projects\Bravia_Controller\Bravia_Controller\bin\Debug\Bravia_Controller.exe
+d:\users\pryonx_2\documents\visual studio 2012\Projects\Bravia_Controller\Bravia_Controller\bin\Debug\Bravia_Controller.pdb
+d:\users\pryonx_2\documents\visual studio 2012\Projects\Bravia_Controller\Bravia_Controller\obj\Debug\Bravia_Controller.csprojResolveAssemblyReference.cache
+d:\users\pryonx_2\documents\visual studio 2012\Projects\Bravia_Controller\Bravia_Controller\obj\Debug\Bravia_Controller.Properties.Resources.resources
+d:\users\pryonx_2\documents\visual studio 2012\Projects\Bravia_Controller\Bravia_Controller\obj\Debug\Bravia_Controller.csproj.GenerateResource.Cache
+d:\users\pryonx_2\documents\visual studio 2012\Projects\Bravia_Controller\Bravia_Controller\obj\Debug\Bravia_Controller.exe
+d:\users\pryonx_2\documents\visual studio 2012\Projects\Bravia_Controller\Bravia_Controller\obj\Debug\Bravia_Controller.pdb
+d:\users\pryonx_2\documents\visual studio 2012\Projects\Bravia_Controller\Bravia_Controller\obj\Debug\Bravia_Controller.Form_Controler.resources
+D:\Users\PryonX_2\Documents\Visual Studio 2012\Projects\Bravia_Controller\Bravia_Controller\bin\Debug\ManagedUPnP.dll
+D:\Users\PryonX_2\Documents\Visual Studio 2012\Projects\Bravia_Controller\Bravia_Controller\bin\Debug\Newtonsoft.Json.dll
+D:\Users\PryonX_2\Documents\Visual Studio 2012\Projects\Bravia_Controller\Bravia_Controller\bin\Debug\SonyAPILib.pdb
+D:\Users\PryonX_2\Documents\Visual Studio 2012\Projects\Bravia_Controller\Bravia_Controller\bin\Debug\SonyAPILib.xml
+D:\Users\PryonX_2\Documents\Visual Studio 2012\Projects\Bravia_Controller\Bravia_Controller\bin\Debug\ManagedUPnP.pdb
+D:\Users\PryonX_2\Documents\Visual Studio 2012\Projects\Bravia_Controller\Bravia_Controller\bin\Debug\ManagedUPnP.xml
+C:\Users\pryon_000\Desktop\Bravia_Controller\Bravia_Controller\bin\Debug\Bravia_Controller.exe.config
+C:\Users\pryon_000\Desktop\Bravia_Controller\Bravia_Controller\obj\Debug\Bravia_Controller.exe
+C:\Users\pryon_000\Desktop\Bravia_Controller\Bravia_Controller\obj\Debug\Bravia_Controller.pdb
+C:\Users\pryon_000\Desktop\Bravia_Controller\Bravia_Controller\obj\Debug\Bravia_Controller.csprojResolveAssemblyReference.cache
+C:\Users\pryon_000\Desktop\Bravia_Controller\Bravia_Controller\obj\Debug\Bravia_Controller.Form_Controler.resources
+C:\Users\pryon_000\Desktop\Bravia_Controller\Bravia_Controller\obj\Debug\Bravia_Controller.Properties.Resources.resources
+C:\Users\pryon_000\Desktop\Bravia_Controller\Bravia_Controller\obj\Debug\Bravia_Controller.csproj.GenerateResource.Cache
+C:\Users\pryon_000\Desktop\Bravia_Controller\Bravia_Controller\bin\Debug\Bravia_Controller.exe
+C:\Users\pryon_000\Desktop\Bravia_Controller\Bravia_Controller\bin\Debug\Bravia_Controller.pdb
+C:\Users\pryon_000\Desktop\Bravia_Controller\Bravia_Controller\bin\Debug\ManagedUPnP.dll
+C:\Users\pryon_000\Desktop\Bravia_Controller\Bravia_Controller\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pryon_000\Desktop\Bravia_Controller\Bravia_Controller\bin\Debug\SonyAPILib.pdb
+C:\Users\pryon_000\Desktop\Bravia_Controller\Bravia_Controller\bin\Debug\SonyAPILib.xml
+C:\Users\pryon_000\Desktop\Bravia_Controller\Bravia_Controller\bin\Debug\ManagedUPnP.pdb
+C:\Users\pryon_000\Desktop\Bravia_Controller\Bravia_Controller\bin\Debug\ManagedUPnP.xml
+D:\Users\PryonX_2\Desktop\Bravia_Controller\Bravia_Controller\bin\Debug\Bravia_Controller.exe.config
+D:\Users\PryonX_2\Desktop\Bravia_Controller\Bravia_Controller\obj\Debug\Bravia_Controller.exe
+D:\Users\PryonX_2\Desktop\Bravia_Controller\Bravia_Controller\obj\Debug\Bravia_Controller.pdb

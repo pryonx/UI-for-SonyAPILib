@@ -1,18 +1,14 @@
-Sony API Library Example Program: ConsoleExample.EXE
+UI for the SonyAPILib.
 ===============
-SonyAPILib.dll v5.0 written by: Kirk Herron
+This is an attempt to create an UI for the lib.
+It's unfinished, but for the moment it works for Sony TV's.
 
-Works with All 3 Generations of Sony Devices!
+Some keys aren't configured yet, but it's as simple as name
+the button as the string command, and that will do it.
 
-SonyAPILib.dll is an API written in C# to help developers create applications that can locate, register and control Sony Smart devices that are equiped with a LAN or WiFi connection.
-
-The ConsoleExample.exe project is a sample program that shows how to use the Sony API Library.
-
-This library also requires two 3rd party Libraries.
 ----------------------------------------------------------------------
-1) ManagedUPnP developed by Aaron Lee Murgatrod.
+SonyAPILib.dll v5.0 written by: Kirk Herron
+ManagedUPnP developed by Aaron Lee Murgatrod.
+Newtonsoft.JSON developed by James Newton-King
 
-2) Newtonsoft.JSON developed by James Newton-King
 
-These can be downloaded from several locations on the internet,
-or you can use the provided copies located in the Assemblies folder.
